@@ -77,4 +77,6 @@ describe "updating data in a hash" do
 
 end
 
-new_hash = {}
+new_hash = {
+  
+}
