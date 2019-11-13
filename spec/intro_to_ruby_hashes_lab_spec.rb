@@ -1,7 +1,7 @@
 require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
-def new_hash
+def "new hash"
   new_hash = {
   }
   
