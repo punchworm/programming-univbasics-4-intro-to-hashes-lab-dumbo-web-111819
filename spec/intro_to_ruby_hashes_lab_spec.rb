@@ -1,15 +1,15 @@
 require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
+def "working with hashes"
+  new_hash = {
+  }
+  
+end
 
 describe "working with hashes" do
 
-  describe "instantiating" do
-    describe "new_hash" do
-      it "creates an empty hash and returns it" do
-        expect(new_hash).to eq({})
-      end
-    end
+
 
 
     describe "my_hash" do
@@ -77,6 +77,3 @@ describe "updating data in a hash" do
 
 end
 
-new_hash = {
-  {}
-}
