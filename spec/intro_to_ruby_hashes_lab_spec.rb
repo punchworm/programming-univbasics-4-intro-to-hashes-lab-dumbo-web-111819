@@ -7,8 +7,6 @@ def "working with hashes"
   
 end
 
-describe "working with hashes" do
-
 
 
 
